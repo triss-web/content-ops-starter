@@ -4,14 +4,14 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Managed Print Services from a partner you can Trust
+      text: Managed Print Services from a Partner you can Trust
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Proactive Support. Predictable Performance
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Our Managed Print Services give you control, security, and cost-efficiency across every device,
+    while our digital solutions and workflow automation transform how documents move through your business.
+    From intelligent routing to automated approvals, we turn print and process into a seamless, connected experience..
     actions:
       - label: Get started
         altText: ''
@@ -59,15 +59,13 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Print Optimised. Business Maximised
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Cost
         subtitle: Numbers Done
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Reduce print expenditure through intelligent device optimisation, usage analytics, and proactive supply management. Our Managed Print Services eliminate unnecessary waste, prevent over-servicing, and deliver predictable monthly costs — turning print from an uncontrolled expense into a managed investment.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -90,12 +88,10 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
+      - title: Security
+        subtitle: Peace of Mind
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Protect sensitive information with secure print release, user authentication, encryption, and compliance-ready workflows. We minimise risk while ensuring authorised users can access documents seamlessly across your organisation.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -115,12 +111,10 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: Efficiency
         subtitle: Faster
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Streamline document-intensive processes through integrated workflow automation that reduces manual handling, accelerates approvals, and improves accuracy. By connecting print with digital systems, we drive measurable productivity gains across your business.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -229,7 +223,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Strategic Print Management That Drives ROI
       color: text-dark
       styles:
         self:
@@ -237,10 +231,7 @@ sections:
       type: TitleBlock
     subtitle: This is a subtitle
     text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+     Our Managed Print Services give you the control, cost efficiency, and security needed to support sustainable business growth. By optimising your print environment through intelligent device placement, real-time analytics, and proactive supply management, we reduce unnecessary expenditure and create predictable operating costs — freeing capital to reinvest in strategic initiatives. We protect your critical information with secure print release, user authentication, encryption, and compliance-ready workflows, reducing risk as your organisation scales. By integrating print with digital document management and workflow automation, we eliminate manual bottlenecks, accelerate approvals, and provide actionable insights across your teams. The result is a streamlined, data-driven operation where print becomes a platform for productivity — enabling you to grow faster, operate smarter, and compete with confidence.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
@@ -278,18 +269,15 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Cloud Services Ready
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: Server Free
     text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+      Our cloud-enabled Managed Print Services extend your print infrastructure beyond the office, providing secure, scalable access across remote, hybrid, and multi-site environments. By hosting print management in the cloud, we eliminate reliance on on-premise servers, reduce IT overhead, and enable centralised control from anywhere. Users can authenticate securely, release print jobs from any authorised device, and integrate seamlessly with cloud-based document management and business systems. With real-time monitoring, automated updates, and enterprise-grade security protocols, our cloud services ensure your print environment remains resilient, compliant, and ready to scale — supporting modern workplaces while reducing complexity and infrastructure costs.
     actions: []
     media:
       title: Title of the video
