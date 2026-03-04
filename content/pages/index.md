@@ -9,9 +9,7 @@ sections:
       type: TitleBlock
     subtitle: Proactive Support. Predictable Performance
     text: >
-      Our Managed Print Services give you control, security, and cost-efficiency across every device,
-    while our digital solutions and workflow automation transform how documents move through your business.
-    From intelligent routing to automated approvals, we turn print and process into a seamless, connected experience..
+      Our Managed Print Services give you control, security, and cost-efficiency across every device, while our digital solutions and workflow automation transform how documents move through your business. From intelligent routing to automated approvals, we turn print and process into a seamless, connected experience.
     actions:
       - label: Get started
         altText: ''
