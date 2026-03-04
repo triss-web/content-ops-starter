@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Managed Print Services from a partner you can Trust
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
